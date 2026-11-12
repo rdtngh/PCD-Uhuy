@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# Data (foto bisa besar — simpan link Drive di README, jangan commit semua foto)
+data/raw/*
+!data/raw/.gitkeep
+data/ground_truth/*
+!data/ground_truth/.gitkeep
+
+# OS
+.DS_Store
