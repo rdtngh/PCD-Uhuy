@@ -21,7 +21,7 @@ Tahap pipeline: koreksi perspektif → denoise/sharpening → adaptive threshold
 ## Struktur Repo
 
 ```
-clearnote-pcd/
+PCD-Uhuy/
 ├── README.md
 ├── requirements.txt
 ├── data/
