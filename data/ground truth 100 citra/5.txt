@@ -1,0 +1,28 @@
+Aplikasi Mobile & Platform Online
+- reservasi Faskes, jadwal temu
+- Manajemen obat, jadwal obat
+- Akses Edukasi
+
+Tantangan
+Infrastruktur yg terbatas.
+Ketersediaan & kualitas jaringan.
+Masalah regulasi kesehatan
+Perlindungan privasi & Keamanan Data
+Keterbatasan Aksesibilitas
+
+Bagaimana Arsitek IT mengamankan Telemedicine
+- End to End
+- Https
+- Kepatuhan dalam menjalankan undang Undang
+  perlindungan data pribadi.
+
+EHR -> Sistem riwayat penyimpanan riwayat rekam
+       medis elektronik internal rumah sakit.
+
+Tele -> tentang jarak jauh
+EHR & HIE fokus pd pengumpulan, penyimpanan,
+& pertukaran (data management)
+Web, ICT, IoT sensor, Mobile UI,
+
+Pemberian layanan Dokter -> Pasien Real time
+Manajemen data Faskes-Faskes

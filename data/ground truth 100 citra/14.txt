@@ -1,0 +1,18 @@
+Filosofi testing, kualitas, dan terminologi dasar
+
+Pengujian Perangkat lunak Merupakan Proses
+evaluasi untuk Memastikan bahwa Perangkat
+lunak sesuai dengan spesifikasi kebutuhan
+dan harapan Pengguna. Kualitas
+Perangkat lunak dilihat dari dua sudut pandang
+yaitu Producer view yang menekankan kesesuaian
+dengan spesifikasi dan Customer view yang menekan
+kan kepuasan Pengguna. Tujuan utama Pengujian
+adalah menemukan cacat sedini mungkin, memberikan
+informasi mengenai kualitas Produk serta mencegah
+kegagalan saat digunakan. Pengujian juga
+mencakup verifikasi untuk memastikan Produk
+dibangun dengan benar dan validasi memastikan
+Produk sesuai kebutuhan Pengguna. Dalam Pengujian
+Perangkat lunak terdapat tiga istilah Penting,
+yaitu Error, Fault, dan Failure.

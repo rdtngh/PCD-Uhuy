@@ -1,0 +1,15 @@
+1. Serangan ransomware pada BSI 2023
+Pada mei 2023 layanan bank Syariah Indonesia mengalami
+gangguan. kelompok ransomware lockbit mengklaim telah
+mencuri data milik BSI.
+
+faktor: complexity: bank BSI punya infrastruktur yang kompleks
+sehingga membuat pengelolaan keamanan
+dan pemantauan sulit dilakukan
+Connectivity: Sistem Perbankan saling terhubung untuk
+melakukan pertukaran data
+
+Hubungan: dengan rumitnya dan kompleksnya sistem Perbankan
+memberikan kerentanan terhadap sistem dan
+dan dengan keterhubungannya sistem bank dengan
+berbagai sistem memperbesar kerentanan

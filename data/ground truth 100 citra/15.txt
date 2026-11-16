@@ -1,0 +1,19 @@
+Manajemen Referensi dan Ekstrasi informasi literatur
+
+Manajemen referensi merupakan proses mengumpulkan, menyim
+pan dan mengorganisasikan sumber literatur secara
+sistematis untuk mendukung penelitian. Pengelolaan
+referensi bertujuan mempermudah pencarian sumber,
+menghemat waktu, menjaga konsistensi sitasi dan meng-
+hindari kesalahan pustaka. Beberapa aplikasi yang dapat
+digunakan adalah mendeley, zotero, endnote dan paper
+pile. Mendeley dan zotero banyak direkomendasikan
+karena memudahkan pengelolaan artikel ilmiah serta
+pembuatan sitasi dan daftar pustaka secara otomatis.
+Dalam penggunaannya, aplikasi manajemen referensi dapat
+di integrasikan dengan microsoft word atau google
+docs. Referensi dapat dimasukkan melalui file PDF, Bibtex
+atau DOI, maupun browser connector. Setelah itu,
+Peneliti perlu memeriksa metadata seperti judul,
+Penulis, tahun terbit dan nama penulis jurnal serta
+nama jurnal agar sitasi akurat.

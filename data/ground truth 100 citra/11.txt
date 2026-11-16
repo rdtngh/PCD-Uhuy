@@ -1,0 +1,22 @@
+Pengenalan kecerdasan komputasional
+
+Kecerdasan komputasional merupakan bidang kecerdasan buatan
+yang mempelajari mekanisme adaptif untuk menghasilkan
+perilaku cerdas dalam lingkungan yang kompleks dan berubah.
+CI menggunakan pendekatan bottom up yang terinspirasi dari
+alam (nature inspired) serta berbasis data, pembelajaran,
+dan adaptasi. Berbeda dengan knowledge based AI yang
+menggunakan aturan dan logika formal, CI lebih cocok untuk
+menyelesaikan permasalahan yang mengandung ketidakpastian
+yang kompleksitas tinggi.
+Kecerdasan komputasional memiliki beberapa paradigma
+utama, yaitu ANN yang meniru jaringan saraf otak
+untuk pengenalan pola dan prediksi. Evolutionary compu-
+tation (EC) yang meniru proses evolusi alam untuk
+optimasi, serta swarm intelligence (SI) yang terinspirasi
+dari perilaku kelompok seperti semut, burung, dan lebah.
+Selain itu terdapat fuzzy systems (FS) yang menggunakan
+derajat kebenaran untuk menangani ketidakpastian,
+serta Artificial immune systems (AIS) yang meniru
+sistem kekebalan tubuh untuk mendeteksi anomali
+dan ancaman.

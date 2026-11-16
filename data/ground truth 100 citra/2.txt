@@ -1,0 +1,25 @@
+Konsep Perangkat lunak dan Keamanan
+Keamanan Perangkat lunak merupakan upaya melindungi
+aplikasi, data dan sistem dari ancaman serta akses yang tidak
+sah. Keamanan harus diperhatikan sejak proses awal
+pengembangan karena semakin lambat kerentanan ditemukan
+semakin besar biaya perbaikannya. Dalam keamanan
+terdapat empat istilah penting yaitu aset sebagai sesuatu
+yang perlu dilindungi, threat sebagai ancaman, vulnerability
+sebagai risiko yang dihitung berdasarkan kemungkinan
+terjadinya ancaman serta dampaknya. Keamanan
+Perangkat lunak juga berbeda dengan keamanan jaringan
+karena berfokus pada perlindungan logika, data, dan
+perilaku aplikasi.
+Komponen utama keamanan Perangkat lunak dikenal
+sebagai CIA triad, yaitu confidentiality untuk menjaga
+kerahasiaan informasi, integrity untuk memastikan data
+tetap akurat dan tidak diubah tanpa izin, serta availability
+untuk menjamin sistem dapat digunakan saat
+dibutuhkan. Selain itu, terdapat komponen seperti authentication,
+authorization, auditing, privacy, dan non-repudiation.
+Keamanan komputer sendiri terbagi menjadi 5 jenis,
+yaitu network security, system security, user security, data
+security, software security. Seluruh komponen tersebut
+saling berkaitan untuk menjaga keamanan sistem secara
+menyeluruh.

@@ -1,0 +1,33 @@
+Muhamad Rafi Ilham
+123140173
+Keamanan dalam Perangkat Lunak
+
+Tugas Minggu 2
+
+1) Studi Kasus - Insiden Siber BSI 2023
+Pada 8 mei 2023, layanan Bank Syariah Indonesia mengalami gangguan akibat
+insiden siber. Gangguan tersebut berdampak pd beberapa layanan perbankan dan kemudian
+diketahui berkaitan dengan serangan ransomware. Dalam kasus ini, faktor yang paling
+terlihat adalah connectivity dan complexity
+
+• Connectivity menjadi salah satu faktor karena sistem perbankan terhubung dengan banyak
+layanan dan komponen digital. Semakin banyak koneksi antarbagian sistem, semakin banyak pula
+jalur yang harus diamankan. Ketika salah satu bagian terkena serangan, gangguannya dapat
+mempengaruhi layanan lain yang saling terhubung. Konsep ini sejalan dengan connectivity,
+yaitu semakin banyak node dan jalur komunikasi, semakin besar pula attack vector
+yang harus dijaga.
+
+• Complexity menjadi faktor berikutnya karena sistem perbankan terdiri dari banyak komponen,
+data, dan proses yang harus berjalan secara bersamaan. Semakin kompleks sistem, semakin
+sulit pula proses menemukan kelemahan, mengawasi seluruh bagian, dan melakukan pemulihan
+ketika terjadi gangguan. Kompleksitas yang tinggi juga membuat masalah keamanan lebih
+sulit dilacak.
+
+Kedua faktor tersebut saling memperkuat. Banyaknya koneksi menambah jumlah titik yg
+harus diamankan, sedangkan kompleksitas membuat hubungan antarbagian tersebut semakin sulit
+diawasi. Jika terdapat kelemahan pada salah satu bagian, dampaknya bisa meluas ke
+layanan lain yang terhubung.
+
+Extensibility tidak menjadi fokus utama dalam kasus ini karena informasi yang tersedia
+tidak cukup menjelaskan bahwa serangan berasal dari plugin, modul tambahan, atau
+mekanisme ekstensi tertentu.

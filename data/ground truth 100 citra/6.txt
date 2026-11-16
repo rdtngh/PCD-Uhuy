@@ -1,0 +1,24 @@
+pendahuluan jaringan komputer
+
+Jaringan komputer merupakan sekumpulan komputer
+dan perangkat yang saling terhubung untuk
+melakukan komunikasi, pertukaran data, serta berbagi
+sumber daya. Perkembangan jaringan komputer dimulai
+dari konsep Time Sharing System (TSS), kemudian
+berkembang menjadi Distributed Processing, ARPANET,
+hingga penggunaan protokol TCP/IP sebagai
+dasar komunikasi Internet. jaringan komputer
+dapat di klasifikasikan berdasarkan Cakupan
+wilayah menjadi LAN, MAN, dan WAN, serta
+berdasarkan metode pengolahan menjadi
+Peer-to-Peer dan Client-Server.
+
+Komponen utama jaringan komputer
+meliputi perangkat jaringan, media transmisi
+Protokol, dan layanan jaringan. perangkat
+jaringan terdiri dari komputer, smartphone,
+switch, router, access point, dan Firewall.
+Media transmisi terbagi menjadi wired yang
+menggunakan kabel seperti UTP, STP, Coaxial,
+dan Fiber optic, serta wireless yang
+menggunakan sinyal radio.

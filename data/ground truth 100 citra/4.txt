@@ -1,0 +1,27 @@
+3) Dependency Proyek - Tubes PAM Firkos
+
+Firkos merupakan aplikasi mobile berbasis kotlin Multiplatform. Project ini menggunakan
+beberapa library utama seperti Compose, Ktor, Koin, SQLDelight, DataStore, Navigation, Coil,
+Coroutines dan library kotlin lainnya.
+
+Hasil pengecekan dependency menggunakan Gradle pada konfigurasi Android Debug Runtime
+menunjukan terdapat 31 dependency langsung, setelah dependency turunannya ikut di-Resolve,
+ditemukan 235 modul unik yang terlibat dalam Project. Artinya sebagian besar modul
+tersebut bukan dipasang secara langsung, tetapi ikut terbawa melalui dependency lain.
+
+Rantai dependency terdalam mencapai 15 tingkat atau sekitar 14 lapis dependency
+turunan. Salah satu contohnya berasal dari Ktor, yaitu ktor-client-okhttp yang
+membawa ktor-client-core, kemudian ktor-http, ktor-utils, ktor-io, hingga beberapa
+Package kotlinx-io.
+
+Dari keseluruhan dependency tersebut, yang paling familiar hanya sekitar 13 kelompok
+library utama, seperti Compose, Ktor, Koin, SQLDelight, DataStore, Coil, Navigation,
+Coroutines, dan beberapa library kotlin. Sisanya merupakan package internal atau
+dependency turunan yang ikut terpasang secara otomatis
+
+Banyaknya dependency ini berkaitan dengan connectivity karena aplikasi tidak hanya
+bergantung pada kode yang dibuat sendiri, tetapi juga pada banyak komponen
+eksternal yang saling terhubung. Semakin banyak dependency yang digunakan, semakin
+banyak pula komponen yang perlu diperhatikan keamanannya. Jika salah satu package
+memiliki kerentanan, masalah tersebut dapat ikut mempengaruhi aplikasi yg bergantung
+padanya.

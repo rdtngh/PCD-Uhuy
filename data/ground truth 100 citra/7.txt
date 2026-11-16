@@ -1,0 +1,31 @@
+Transformer untuk NLP
+
+Transformer merupakan arsitektur deep learning yang digunakan
+dalam pengolahan bahasa alami (NLP) dengan memanfaatkan
+mekanisme attention untuk memahami hubungan antarkata.
+Berbeda dengan RNN, Transformer mampu memproses data secara
+paralel sehingga lebih efisien. Prosesnya dimulai dari tokenisasi,
+embedding, dan positional encoding untuk mengubah teks menjadi
+representasi numerik yang memiliki informasi kata. Mekanisme
+self-attention menggunakan Query, Key, dan Value untuk menen-
+tukan hubungan antartoken.
+
+Arsitektur transformer terdiri dari encoder yang berfungsi memahami
+konteks masukan dan decoder yang menghasilkan teks keluaran.
+Terdapat tiga jenis arsitektur, yaitu encoder-only seperti BERT
+untuk klasifikasi teks, decoder-only seperti GPT untuk menghasilkan
+teks, serta encoder-decoder seperti T5 dan BART untuk penerjemahan
+dan peringkasan. Transformer juga menggunakan pretraining untuk
+mempelajari pola bahasa dari data berjumlah besar, kemudian
+memanfaatkan transfer learning untuk menerapkan pengetahuan
+tersebut pada tugas baru
+
+Penyesuaian model terhadap tugas tertentu dilakukan melalui proses
+fine-tuning dengan tiga strategi, yaitu linear probing, partial
+freezing, dan full fine-tuning. Proses ini meliputi pemilihan model
+pretrained, persiapan dataset, tokenisasi, pelatihan, dan evaluasi.
+Kinerja model diukur menggunakan metrik seperti accuracy,
+precision, recall, F1-score untuk klasifikasi, serta BLEU untuk
+penerjemahan. Secara keseluruhan, Transformer memungkinkan
+pengolahan bahasa yang lebih efektif dan fleksibel untuk
+berbagai kebutuhan NLP.

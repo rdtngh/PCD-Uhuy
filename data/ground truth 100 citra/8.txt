@@ -1,0 +1,23 @@
+Distribusi Fungsi Peubah Acak Kontinu
+
+Distribusi peubah acak kontinu merupakan distribusi probabilitas
+yang menggambarkan kemungkinan munculnya nilai dalam suatu
+interval tertentu. Jenis Distribusi kontinu meliputi distribusi
+seragam, normal, gamma, eksponensial, dan chi-square. Distribusi
+seragam memiliki peluang yang sama pada setiap nilai dalam
+interval tertentu.
+
+Distribusi normal memiliki bentuk kurva menyerupai lonceng dan
+bersifat simetris terhadap nilai rata-rata. Sebagian besar data
+berada di sekitar rata-rata, sedangkan data yang jauh dari
+rata-rata jumlahnya semakin sedikit. Untuk menghitung peluang,
+distribusi normal dapat diubah menjadi distribusi normal standar
+melalui proses standarisasi menggunakan nilai Z.
+
+Materi ini juga membahas aproksimasi distribusi binomial
+menggunakan distribusi normal untuk memperkirakan peluang
+ketika jumlah percobaan cukup besar. Pendekatan ini menggunakan
+penyesuaian batas interval agar hasilnya lebih mendekati
+distribusi binomial sebenarnya. Pemahaman distribusi tersebut
+membantu dalam menganalisis peluang dan mengambil keputusan
+berdasarkan data.

@@ -1,0 +1,32 @@
+Pertemuan 5 (8/10/2026)
+Metrik Keamanan Perangkat Lunak
+
+Beda Measure, Metric, dan Indicator
+• Measure -> Dasar mentah hasil pengamatan tanpa konteks
+• Metric -> Measure yg diolah & dibandingkan norma/acuan.
+• Indicator -> Metric yg diterjemahkan jadi sinyal tindakan.
+
+Metrik keamanan yg cerdas
+• Simple -> Mudah dipahami, rumus tidak rumit, dapat dimengerti
+• Measurable -> Dapat diukur, berbasis data nyata yg tersedia di
+  sistem
+• Attainable -> Target realistis, bisa dicapai, tidak memicu
+  demotivasi tim
+• Repeatable -> Hasil konsisten, definisi jelas, tidak tergantung
+  subjektivitas
+• Time bound -> konteks waktu, punya arti dibandingkan periode waktu.
+
+Simple metric memberikan sinyal aksi yg langsung dan
+operasional (misal: 9 vulnerability harus segera ditangani)
+Complex Index memberikan gambaran kondisi menyeluruh, tetapi
+butuh break down lebih lanjut, untuk menemukan akar masalahnya.
+
+Pragmatic Security Metrics : Metrik Keamanan Praktis & Relevan.
+• Predictiveness       • Genuineness       • Timeliness
+• Relevance            • Meaningfulness    • Independence
+• Actionability        • Accuracy          • Cost Effectiveness
+
+Metrik Ideal
+• Akurasi & Presisi Tingkat tinggi
+• Objektif & Terukur Bebas bias
+• Konsisten & Kontekstual

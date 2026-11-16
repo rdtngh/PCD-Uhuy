@@ -1,0 +1,35 @@
+Mengapa Perusahaan melakukan “Go Public” ?
+
+Go public merupakan proses penawaran perdana saham
+perusahaan di pasar modal yang kemudian menjadi
+perusahaan terbuka
+
+Hal ini juga biasa dikenal dengan IPO (initial Public Off-
+ering). Perusahaan yang akan IPO setidaknya harus menjual
+sebanyak 7,5% dari jumlah saham beredarnya ke public
+untuk memenuhi persyaratan free float dari BEI.
+
+Free Float adalah persentase saham beredar perusahaan
+yang diperdagangkan di pasar modal. Setelah go public,
+saham perusahaan akan diperdagangkan di pasar sek-
+under dan diperjualbelikan di kalangan investor.
+
+Dengan go public, perusahaan dapat memperoleh pendanaan
+dari masyarakat sehingga dapat melakukan ekspansi
+dan meningkatkan nilai perusahaan
+
+Tahapan perusahaan melakukan “Go Public”
+1. Tahap persiapan
+   ↳ perusahaan mengadakan RUPS (Rapat Umum Pemegang Saham)
+2. Pengajuan pendaftaran
+   ↳ memenuhi syarat berupa dokumen yang wajib dilengkapi
+3. Go Public
+   ↳ memulai dengan penawaran umum
+4. Pencatatan (Listing)
+   ↳ mulai diperdagangkan oleh investor pasar modal di BEI
+
+Fraksi harga saham (kelipatan kenaikan)
+1. Harga saham kurang dari Rp200 -> Fraksi harga Rp1
+2. Harga saham Rp200 - Rp500 -> Fraksi harga Rp5.
+3. Harga saham Rp500 - Rp2000 -> Fraksi harga Rp10.
+4. Harga saham ≥ Rp5000 -> Fraksi harga Rp25.

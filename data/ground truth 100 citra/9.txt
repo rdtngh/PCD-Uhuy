@@ -1,0 +1,23 @@
+Penapisan citra dan konvolusi
+
+Penapisan citra (image filtering) merupakan proses
+pengolah citra yang bertujuan untuk mengubah nilai
+piksel berdasarkan nilai piksel di sekitarnya agar
+menghasilkan citra sesuai kebutuhan. Salah satu teknik
+penapisan adalah konvolusi, yaitu operasi yang menggunakan
+kernel untuk memproses citra. Proses konvolusi dilakukan
+dengan menggeser kernel pada setiap posisi piksel,
+kemudian mengalikan nilai kernel yang bersesuaian
+dan menjumlahkan hasilnya untuk memperoleh nilai
+piksel baru.
+Dalam penerapannya, konvolusi memiliki beberapa sifat,
+yaitu komutatif, asosiatif, homogen, distributif dan
+shift invariant. Kernel yang digunakan umumnya berukuran
+3x3 dan digeser ke seluruh bagian citra. Permasalahan
+dapat terjadi pada piksel tepi karena sebagian kernel
+berada di luar batas citra. Masalah ini dapat diatasi
+dengan mengabaikan piksel tepi, menggunakan zero
+padding, atau menduplikasi nilai piksel terdekat.
+Konvolusi banyak digunakan memperbaiki kualitas
+citra, menghilangkan derau, menghaluskan citra,
+serta mendeteksi dan memper tajam tepi objek.

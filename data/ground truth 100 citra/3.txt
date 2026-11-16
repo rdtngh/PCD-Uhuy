@@ -1,0 +1,24 @@
+• Analisis Kelemahan Protokol ARP
+  • Stateless dan tanpa Otentikasi : ARP tidak mengecek identitas pengirim dan
+  percaya begitu saja pada setiap respon yang masuk.
+  • Menerima Unsolicited Replay : sistem mau memproses paket ARP Reply
+  meskipun tidak pernah mengirimkan ARP Request sebelumnya.
+  • Update Dinamis Tanpa Verifikasi : Tabel ARP langsung terupdate otomatis tanpa
+  adanya mekanisme validasi cross cek ke jaringan.
+
+3. a. Tindakan Pasti NIC Terhadap Frame
+   ↳ NIC Penerima akan langsung membuang Frame tersebut.
+   • Alasan teknis : NIC Menghitung ulang nilai FCS dengan Algoritma CRC.
+     Jika hasilnya tidak cocok dengan nilai CRC di trailer Frame, data dianggap
+     rusak. Ethernet di layer 2 hanya bertugas mendeteksi kesalahan, bukan
+     memperbaikinya
+
+b. Lapisan yg bertanggung jawab meminta Pengiriman ulang
+   ↳ lapisan yg bertanggung jawab adalah transport layer, khususnya protokol
+     TCP
+   • Alasan teknis : layer 2 (Ethernet) dan layer 3 (IP) bersifat unreliable
+     dan connectionless, sehingga tidak memiliki mekanisme acknowledgment.
+     TCP di layer 4 menyediakan Reliable Data Transfer. saat Frame di buang
+     oleh NIC, Penerima tidak mengirim Paket ACK, sehingga terjadi time-out.
+     Pada Pengirim yg memicu TCP untuk mengirim ulang data secara
+     otomatis

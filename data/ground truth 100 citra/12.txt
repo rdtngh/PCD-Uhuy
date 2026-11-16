@@ -1,0 +1,23 @@
+Rumusan Masalah.
+
+1.1 latar belakangnya :
+1. Pengujian kinerja pada kondisi audio bersih dataset utama
+   E-SERAVD versi 1.2 (6 kelas emosi)
+2. Pengujian kemampuan generalisasi lintas-domain pada
+   dataset pembanding RAVDESS (7 kelas emosi).
+3. Pengujian ketahanan performa (noise robustness)
+   dibawah gangguan derau Additive White Gaussian Noise (AWGN)
+   tingkat SNR 20 dB, 10 dB, & 5 dB).
+
+1.2.
+1. Membandingkan kinerja klasifikasi antara arsitektur Mamba &
+   baseline CNN pd kondisi audio bersih menggunakan
+   dataset E-SERAVD versi 1.2
+2. Menelusuri bagaimana kemampuan adaptasi kedua model
+   saat diuji secara lintas-domain pd ragam percakapan
+   dataset RAVDESS 7 kelas emosi.
+3. Membuktikan sejauh mana ketahanan arsitektur Mamba
+   dibandingkan CNN ketika audio diuji di bawah
+   gangguan derau Additive White Gaussian Noise (AWGN),
+   sekaligus membandingkan efisiensi kedua model ditinjau
+   dari ukuran model & kecepatan waktu inferensinya
