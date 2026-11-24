@@ -15,4 +15,6 @@ def run_ocr(image: np.ndarray, lang: str = "ind") -> str:
     Catatan: pastikan paket bahasa Tesseract untuk Indonesia (ind) terinstal,
     atau gunakan 'eng' kalau catatan dalam bahasa Inggris / campuran.
     """
-    raise NotImplementedError
+    text = pytesseract.image_to_string(image, lang=lang)
+    return text.strip()
+    # raise NotImplementedError

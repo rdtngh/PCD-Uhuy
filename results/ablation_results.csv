@@ -1,0 +1,7 @@
+scenario,cer_mean,wer_mean,n_foto
+Baseline (grayscale + Otsu),0.6176,1.1521,5
+Pipeline lengkap,0.8496,1.6873,5
+Tanpa perspektif,0.8496,1.6873,5
+Tanpa sharpening,0.9035,1.8648,5
+Adaptive diganti Otsu,0.6194,1.2732,5
+Tanpa morfologi,0.9285,1.893,5

@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
+.venv
 
 # Data (foto bisa besar — simpan link Drive di README, jangan commit semua foto)
 data/raw/*
@@ -13,3 +14,6 @@ data/ground_truth/*
 
 # OS
 .DS_Store
+
+# testing
+src/test_abieb/*

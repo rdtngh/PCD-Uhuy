@@ -1,0 +1,6 @@
+condition,Baseline (grayscale + Otsu),Pipeline lengkap,Tanpa perspektif,Tanpa sharpening,Adaptive diganti Otsu,Tanpa morfologi
+normal,0.4032,0.6549,0.6549,0.5106,0.3715,0.632
+miring,1.0,1.0,1.0,0.9771,1.0,0.9701
+kurang_cahaya,0.581,0.6532,0.6532,1.1919,0.5722,0.7535
+bayangan_sebagian,0.4595,0.8151,0.8151,0.7482,0.5035,1.2518
+blur_ringan,0.6444,1.125,1.125,1.0898,0.6496,1.0352
