@@ -16,4 +16,4 @@ data/ground_truth/*
 .DS_Store
 
 # testing
-src/test_abieb/*
+./src/test_abieb/*
