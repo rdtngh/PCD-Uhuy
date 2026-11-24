@@ -67,7 +67,16 @@ streamlit run app/app.py
 ## Evaluasi dan Ablasi
 
 ```bash
-python src/evaluate.py
+python -m src.evaluate.py
+
+--limit n
+n adalah jumlah limit
+
+--lang m
+m adalah bahasa yang digunakan pada OCR {ex: id, eng}
+
+--split o
+o adalah jenis split {development/test}
 ```
 
 Menghasilkan tabel CER/WER untuk baseline, pipeline lengkap, dan setiap skenario ablasi di `results/`.

@@ -17,3 +17,4 @@ data/ground_truth/*
 
 # testing
 ./src/test_abieb/*
+test.py
